@@ -2,7 +2,7 @@ Supported sales strategy optimization through data-driven decision-making.
 
 
 Dashboard Link:
-https://app.powerbi.com/groups/me/reports/ecf7b61c-94e1-4423-b5f0-fc2c6d6d72a8/76d4e493383a84c6279e?experience=power-bi
+https://app.powerbi.com/links/HbjkF0Ipea?ctid=ffa5b9ed-b71c-4988-a7bb-e19b0f3c0030&pbi_source=linkShare
 
 
 
